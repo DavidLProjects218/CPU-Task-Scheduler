@@ -1,0 +1,1413 @@
+0 time units 
+
+	CPU CONTENT: 
+	___________
+	EMPTY!! 
+
+	IO CONTENT: 
+	___________
+	EMPTY!! 
+
+	READY QUEUE
+	___________
+	P ID: 0
+	state: READY
+
+	P ID: 1
+	state: READY
+
+	P ID: 2
+	state: READY
+
+	IO QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+1 time units 
+
+	CPU CONTENT: 
+	___________
+	EMPTY!! 
+
+	IO CONTENT: 
+	___________
+	EMPTY!! 
+
+2 time units 
+
+	CPU CONTENT: 
+	___________
+	EMPTY!! 
+
+	IO CONTENT: 
+	___________
+	EMPTY!! 
+
+3 time units 
+
+	CPU CONTENT: 
+	___________
+	EMPTY!! 
+
+	IO CONTENT: 
+	___________
+	EMPTY!! 
+
+4 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 0
+	sate: READY
+	arrival time: 3
+	CPU BURST 0 :1
+	IO CONTENT: 
+	___________
+	EMPTY!! 
+
+5 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 0
+	sate: READY
+	arrival time: 3
+	CPU BURST 0 :0
+	IO CONTENT: 
+	___________
+	EMPTY!! 
+
+	READY QUEUE
+	___________
+	P ID: 1
+	state: READY
+
+	P ID: 2
+	state: READY
+
+	P ID: 0
+	state: READY
+
+	P ID: 0
+	state: READY
+
+	IO QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+6 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 1
+	sate: READY
+	arrival time: 5
+	CPU BURST 0 :0
+	IO CONTENT: 
+	___________
+	EMPTY!! 
+
+7 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: READY
+	arrival time: 6
+	CPU BURST 0 :0
+	IO CONTENT: 
+	___________
+	EMPTY!! 
+
+8 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 0
+	sate: RUNNING
+	arrival time: 3
+	CPU BURST 1 :2
+	IO CONTENT: 
+	___________
+	P ID: 0
+	state: RUNNING
+	arrival time: 3
+	CPU BURST 1 :7
+9 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 0
+	sate: RUNNING
+	arrival time: 3
+	CPU BURST 1 :1
+	IO CONTENT: 
+	___________
+	P ID: 0
+	state: RUNNING
+	arrival time: 3
+	CPU BURST 1 :7
+10 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 0
+	sate: RUNNING
+	arrival time: 3
+	CPU BURST 1 :0
+	IO CONTENT: 
+	___________
+	P ID: 0
+	state: RUNNING
+	arrival time: 3
+	CPU BURST 1 :7
+	READY QUEUE
+	___________
+	P ID: 0
+	state: RUNNING
+
+	P ID: 1
+	state: READY
+
+	P ID: 2
+	state: READY
+
+	P ID: 0
+	state: RUNNING
+
+	P ID: 0
+	state: RUNNING
+
+	IO QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+11 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 0
+	sate: RUNNING
+	arrival time: 3
+	CPU BURST 1 :0
+	IO CONTENT: 
+	___________
+	P ID: 0
+	state: RUNNING
+	arrival time: 3
+	CPU BURST 1 :7
+12 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 0
+	sate: RUNNING
+	arrival time: 3
+	CPU BURST 1 :0
+	IO CONTENT: 
+	___________
+	P ID: 0
+	state: RUNNING
+	arrival time: 3
+	CPU BURST 1 :7
+13 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 0
+	sate: READY
+	arrival time: 3
+	CPU BURST 1 :0
+	IO CONTENT: 
+	___________
+	P ID: 0
+	state: READY
+	arrival time: 3
+	CPU BURST 1 :7
+14 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 0
+	sate: RUNNING
+	arrival time: 3
+	CPU BURST 2 :4
+	IO CONTENT: 
+	___________
+	P ID: 0
+	state: RUNNING
+	arrival time: 3
+	CPU BURST 2 :0
+15 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 1
+	sate: BLOCK
+	arrival time: 5
+	CPU BURST 1 :0
+	IO CONTENT: 
+	___________
+	P ID: 0
+	state: RUNNING
+	arrival time: 3
+	CPU BURST 2 :0
+	READY QUEUE
+	___________
+	P ID: 2
+	state: READY
+
+	P ID: 0
+	state: RUNNING
+
+	P ID: 0
+	state: RUNNING
+
+	P ID: 0
+	state: RUNNING
+
+	IO QUEUE
+	___________
+	P ID: 1
+	state: BLOCK
+
+16 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: BLOCK
+	arrival time: 6
+	CPU BURST 1 :1
+	IO CONTENT: 
+	___________
+	P ID: 0
+	state: RUNNING
+	arrival time: 3
+	CPU BURST 2 :0
+17 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: READY
+	arrival time: 6
+	CPU BURST 1 :0
+	IO CONTENT: 
+	___________
+	P ID: 0
+	state: RUNNING
+	arrival time: 3
+	CPU BURST 2 :0
+18 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: READY
+	arrival time: 6
+	CPU BURST 1 :0
+	IO CONTENT: 
+	___________
+	P ID: 0
+	state: RUNNING
+	arrival time: 3
+	CPU BURST 2 :0
+19 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: READY
+	arrival time: 6
+	CPU BURST 1 :0
+	IO CONTENT: 
+	___________
+	P ID: 0
+	state: RUNNING
+	arrival time: 3
+	CPU BURST 2 :0
+20 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: READY
+	arrival time: 6
+	CPU BURST 1 :0
+	IO CONTENT: 
+	___________
+	P ID: 0
+	state: RUNNING
+	arrival time: 3
+	CPU BURST 2 :0
+	READY QUEUE
+	___________
+	P ID: 0
+	state: RUNNING
+
+	P ID: 0
+	state: RUNNING
+
+	P ID: 0
+	state: RUNNING
+
+	P ID: 2
+	state: READY
+
+	IO QUEUE
+	___________
+	P ID: 1
+	state: BLOCK
+
+	P ID: 2
+	state: READY
+
+21 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: READY
+	arrival time: 6
+	CPU BURST 1 :0
+	IO CONTENT: 
+	___________
+	P ID: 0
+	state: READY
+	arrival time: 3
+	CPU BURST 2 :0
+22 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 0
+	sate: EXIT
+	arrival time: 3
+	CPU BURST 2 :3
+	IO CONTENT: 
+	___________
+	P ID: 1
+	state: RUNNING
+	arrival time: 5
+	CPU BURST 1 :0
+23 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 0
+	sate: READY
+	arrival time: 3
+	CPU BURST 2 :2
+	IO CONTENT: 
+	___________
+	P ID: 1
+	state: RUNNING
+	arrival time: 5
+	CPU BURST 1 :0
+24 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 0
+	sate: READY
+	arrival time: 3
+	CPU BURST 2 :1
+	IO CONTENT: 
+	___________
+	P ID: 1
+	state: RUNNING
+	arrival time: 5
+	CPU BURST 1 :0
+25 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: BLOCK
+	arrival time: 6
+	CPU BURST 2 :4
+	IO CONTENT: 
+	___________
+	P ID: 1
+	state: RUNNING
+	arrival time: 5
+	CPU BURST 1 :0
+	READY QUEUE
+	___________
+	P ID: 0
+	state: READY
+
+	P ID: 0
+	state: READY
+
+	P ID: 0
+	state: READY
+
+	P ID: 0
+	state: READY
+
+	IO QUEUE
+	___________
+	P ID: 2
+	state: BLOCK
+
+	P ID: 2
+	state: BLOCK
+
+26 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 0
+	sate: READY
+	arrival time: 3
+	CPU BURST 2 :0
+	IO CONTENT: 
+	___________
+	P ID: 1
+	state: RUNNING
+	arrival time: 5
+	CPU BURST 1 :0
+27 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 0
+	sate: EXIT
+	arrival time: 3
+	CPU BURST 2 :0
+	IO CONTENT: 
+	___________
+	P ID: 1
+	state: RUNNING
+	arrival time: 5
+	CPU BURST 1 :0
+28 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 0
+	sate: EXIT
+	arrival time: 3
+	CPU BURST 2 :0
+	IO CONTENT: 
+	___________
+	P ID: 1
+	state: RUNNING
+	arrival time: 5
+	CPU BURST 1 :0
+29 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 0
+	sate: EXIT
+	arrival time: 3
+	CPU BURST 2 :0
+	IO CONTENT: 
+	___________
+	P ID: 1
+	state: RUNNING
+	arrival time: 5
+	CPU BURST 1 :0
+30 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 0
+	sate: EXIT
+	arrival time: 3
+	CPU BURST 2 :0
+	IO CONTENT: 
+	___________
+	P ID: 1
+	state: RUNNING
+	arrival time: 5
+	CPU BURST 1 :0
+	READY QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+	IO QUEUE
+	___________
+	P ID: 2
+	state: BLOCK
+
+	P ID: 2
+	state: BLOCK
+
+31 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 0
+	sate: EXIT
+	arrival time: 3
+	CPU BURST 2 :0
+	IO CONTENT: 
+	___________
+	P ID: 1
+	state: RUNNING
+	arrival time: 5
+	CPU BURST 1 :0
+32 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 0
+	sate: EXIT
+	arrival time: 3
+	CPU BURST 2 :0
+	IO CONTENT: 
+	___________
+	P ID: 1
+	state: READY
+	arrival time: 5
+	CPU BURST 1 :0
+33 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 1
+	sate: EXIT
+	arrival time: 5
+	CPU BURST 1 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 2 :8
+34 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 1
+	sate: EXIT
+	arrival time: 5
+	CPU BURST 1 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 2 :8
+35 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 1
+	sate: EXIT
+	arrival time: 5
+	CPU BURST 1 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 2 :8
+	READY QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+	IO QUEUE
+	___________
+	P ID: 2
+	state: RUNNING
+
+36 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 1
+	sate: EXIT
+	arrival time: 5
+	CPU BURST 1 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 2 :8
+37 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 1
+	sate: EXIT
+	arrival time: 5
+	CPU BURST 1 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 2 :8
+38 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 1
+	sate: EXIT
+	arrival time: 5
+	CPU BURST 1 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 2 :8
+39 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 1
+	sate: EXIT
+	arrival time: 5
+	CPU BURST 1 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 2 :8
+40 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 1
+	sate: EXIT
+	arrival time: 5
+	CPU BURST 1 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 2 :8
+	READY QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+	IO QUEUE
+	___________
+	P ID: 2
+	state: RUNNING
+
+41 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 1
+	sate: EXIT
+	arrival time: 5
+	CPU BURST 1 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 2 :8
+42 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 1
+	sate: EXIT
+	arrival time: 5
+	CPU BURST 1 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 2 :8
+43 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 1
+	sate: EXIT
+	arrival time: 5
+	CPU BURST 1 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 2 :8
+44 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 1
+	sate: EXIT
+	arrival time: 5
+	CPU BURST 1 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 2 :8
+45 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 1
+	sate: EXIT
+	arrival time: 5
+	CPU BURST 1 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 2 :8
+	READY QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+	IO QUEUE
+	___________
+	P ID: 2
+	state: RUNNING
+
+46 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 1
+	sate: EXIT
+	arrival time: 5
+	CPU BURST 1 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 2 :8
+47 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 1
+	sate: EXIT
+	arrival time: 5
+	CPU BURST 1 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 2 :8
+48 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 1
+	sate: EXIT
+	arrival time: 5
+	CPU BURST 1 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: READY
+	arrival time: 6
+	CPU BURST 2 :8
+49 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: RUNNING
+	arrival time: 6
+	CPU BURST 2 :3
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 2 :8
+50 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: RUNNING
+	arrival time: 6
+	CPU BURST 2 :2
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 2 :8
+	READY QUEUE
+	___________
+	P ID: 2
+	state: RUNNING
+
+	P ID: 2
+	state: RUNNING
+
+	IO QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+51 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: RUNNING
+	arrival time: 6
+	CPU BURST 2 :1
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 2 :8
+52 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: RUNNING
+	arrival time: 6
+	CPU BURST 2 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 2 :8
+53 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: RUNNING
+	arrival time: 6
+	CPU BURST 2 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 2 :8
+54 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: RUNNING
+	arrival time: 6
+	CPU BURST 2 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 2 :8
+55 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: RUNNING
+	arrival time: 6
+	CPU BURST 2 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 2 :8
+	READY QUEUE
+	___________
+	P ID: 2
+	state: RUNNING
+
+	P ID: 2
+	state: RUNNING
+
+	P ID: 2
+	state: RUNNING
+
+	P ID: 2
+	state: RUNNING
+
+	IO QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+56 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: RUNNING
+	arrival time: 6
+	CPU BURST 2 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 2 :8
+57 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: RUNNING
+	arrival time: 6
+	CPU BURST 2 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 2 :8
+58 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: RUNNING
+	arrival time: 6
+	CPU BURST 2 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 2 :8
+59 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: RUNNING
+	arrival time: 6
+	CPU BURST 2 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 2 :8
+60 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: RUNNING
+	arrival time: 6
+	CPU BURST 2 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 2 :8
+	READY QUEUE
+	___________
+	P ID: 2
+	state: RUNNING
+
+	P ID: 2
+	state: RUNNING
+
+	P ID: 2
+	state: RUNNING
+
+	P ID: 2
+	state: RUNNING
+
+	IO QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+61 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: READY
+	arrival time: 6
+	CPU BURST 2 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: READY
+	arrival time: 6
+	CPU BURST 2 :8
+62 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: RUNNING
+	arrival time: 6
+	CPU BURST 3 :6
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 3 :0
+63 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: RUNNING
+	arrival time: 6
+	CPU BURST 3 :5
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 3 :0
+64 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: RUNNING
+	arrival time: 6
+	CPU BURST 3 :4
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 3 :0
+65 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: RUNNING
+	arrival time: 6
+	CPU BURST 3 :3
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 3 :0
+	READY QUEUE
+	___________
+	P ID: 2
+	state: RUNNING
+
+	P ID: 2
+	state: RUNNING
+
+	P ID: 2
+	state: RUNNING
+
+	P ID: 2
+	state: RUNNING
+
+	P ID: 2
+	state: RUNNING
+
+	P ID: 2
+	state: RUNNING
+
+	P ID: 2
+	state: RUNNING
+
+	IO QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+66 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: RUNNING
+	arrival time: 6
+	CPU BURST 3 :2
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 3 :0
+67 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: RUNNING
+	arrival time: 6
+	CPU BURST 3 :1
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 3 :0
+68 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: RUNNING
+	arrival time: 6
+	CPU BURST 3 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 3 :0
+69 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: RUNNING
+	arrival time: 6
+	CPU BURST 3 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: RUNNING
+	arrival time: 6
+	CPU BURST 3 :0
+70 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: READY
+	arrival time: 6
+	CPU BURST 3 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: READY
+	arrival time: 6
+	CPU BURST 3 :0
+	READY QUEUE
+	___________
+	P ID: 2
+	state: READY
+
+	P ID: 2
+	state: READY
+
+	P ID: 2
+	state: READY
+
+	P ID: 2
+	state: READY
+
+	P ID: 2
+	state: READY
+
+	P ID: 2
+	state: READY
+
+	P ID: 2
+	state: READY
+
+	P ID: 2
+	state: READY
+
+	P ID: 2
+	state: READY
+
+	P ID: 2
+	state: READY
+
+	P ID: 2
+	state: READY
+
+	IO QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+71 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: EXIT
+	arrival time: 6
+	CPU BURST 3 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: EXIT
+	arrival time: 6
+	CPU BURST 3 :0
+72 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: EXIT
+	arrival time: 6
+	CPU BURST 3 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: EXIT
+	arrival time: 6
+	CPU BURST 3 :0
+73 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: EXIT
+	arrival time: 6
+	CPU BURST 3 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: EXIT
+	arrival time: 6
+	CPU BURST 3 :0
+74 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: EXIT
+	arrival time: 6
+	CPU BURST 3 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: EXIT
+	arrival time: 6
+	CPU BURST 3 :0
+75 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: EXIT
+	arrival time: 6
+	CPU BURST 3 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: EXIT
+	arrival time: 6
+	CPU BURST 3 :0
+	READY QUEUE
+	___________
+	P ID: 2
+	state: EXIT
+
+	P ID: 2
+	state: EXIT
+
+	P ID: 2
+	state: EXIT
+
+	P ID: 2
+	state: EXIT
+
+	P ID: 2
+	state: EXIT
+
+	P ID: 2
+	state: EXIT
+
+	IO QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+76 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: EXIT
+	arrival time: 6
+	CPU BURST 3 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: EXIT
+	arrival time: 6
+	CPU BURST 3 :0
+77 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: EXIT
+	arrival time: 6
+	CPU BURST 3 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: EXIT
+	arrival time: 6
+	CPU BURST 3 :0
+78 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: EXIT
+	arrival time: 6
+	CPU BURST 3 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: EXIT
+	arrival time: 6
+	CPU BURST 3 :0
+79 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: EXIT
+	arrival time: 6
+	CPU BURST 3 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: EXIT
+	arrival time: 6
+	CPU BURST 3 :0
+80 time units 
+
+	CPU CONTENT: 
+	___________
+	P ID: 2
+	sate: EXIT
+	arrival time: 6
+	CPU BURST 3 :0
+	IO CONTENT: 
+	___________
+	P ID: 2
+	state: EXIT
+	arrival time: 6
+	CPU BURST 3 :0
+	READY QUEUE
+	___________
+	P ID: 2
+	state: EXIT
+
+	IO QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+

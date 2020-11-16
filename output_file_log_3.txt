@@ -1,0 +1,593 @@
+0 time units 
+
+	READY QUEUE
+	___________
+	P ID: 0
+	state: READY
+
+	P ID: 1
+	state: READY
+
+	P ID: 2
+	state: READY
+
+	IO QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+EVENTS
+==========
+
+1 time units 
+
+EVENTS
+==========
+
+2 time units 
+
+EVENTS
+==========
+
+3 time units 
+
+EVENTS
+==========
+
+	P ID: 0 NEW PROCESS HAS STARTED 
+
+	PID: 0 IS RUNNING IN THE CPU!!
+
+4 time units 
+
+EVENTS
+==========
+
+	PID: 0 HAS FINISHED IN CPU!!
+
+	IO REQUEST INITIATED!! 
+
+	PID: 0 IS RUNNING IN THE I/O!! 
+
+5 time units 
+
+	READY QUEUE
+	___________
+	P ID: 1
+	state: READY
+
+	P ID: 2
+	state: READY
+
+	IO QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+EVENTS
+==========
+
+	P ID: 1 NEW PROCESS HAS STARTED 
+
+	PID: 1 IS RUNNING IN THE CPU!!
+
+	PID: 0 IS RUNNING IN THE I/O!! 
+
+6 time units 
+
+EVENTS
+==========
+
+	PID: 1 IS RUNNING IN THE CPU!!
+
+	PID: 0 IS RUNNING IN THE I/O!! 
+
+7 time units 
+
+EVENTS
+==========
+
+	PID: 1 IS RUNNING IN THE CPU!!
+
+	PID: 0 IS RUNNING IN THE I/O!! 
+
+8 time units 
+
+EVENTS
+==========
+
+	PID: 1 HAS COMPLETED!!
+
+	PID: 0 IS RUNNING IN THE I/O!! 
+
+9 time units 
+
+EVENTS
+==========
+
+	P ID: 0 I/O BURST 1 HAS COMPLETED!!! 
+
+	P ID: 0 HAS CHANGED STATES TO READY
+
+	P_ID: 0WILL BE SENT BACK TO READY QUEUE!
+
+	PID: 2 IS RUNNING IN THE CPU!!
+
+10 time units 
+
+	READY QUEUE
+	___________
+	P ID: 0
+	state: READY
+
+	IO QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+EVENTS
+==========
+
+	PID: 2 IS RUNNING IN THE CPU!!
+
+11 time units 
+
+EVENTS
+==========
+
+	PID: 2 IS RUNNING IN THE CPU!!
+
+12 time units 
+
+EVENTS
+==========
+
+	PID: 2 IS RUNNING IN THE CPU!!
+
+13 time units 
+
+EVENTS
+==========
+
+	PID: 2 IS RUNNING IN THE CPU!!
+
+14 time units 
+
+EVENTS
+==========
+
+	PID: 2 HAS BEEN PREEMPTED
+
+15 time units 
+
+	READY QUEUE
+	___________
+	P ID: 0
+	state: READY
+
+	P ID: 2
+	state: READY
+
+	IO QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+EVENTS
+==========
+
+	PID: 0 IS RUNNING IN THE CPU!!
+
+16 time units 
+
+EVENTS
+==========
+
+	PID: 0 IS RUNNING IN THE CPU!!
+
+17 time units 
+
+EVENTS
+==========
+
+	PID: 0 IS RUNNING IN THE CPU!!
+
+18 time units 
+
+EVENTS
+==========
+
+	PID: 0 IS RUNNING IN THE CPU!!
+
+19 time units 
+
+EVENTS
+==========
+
+	PID: 0 IS RUNNING IN THE CPU!!
+
+20 time units 
+
+	READY QUEUE
+	___________
+	P ID: 2
+	state: READY
+
+	IO QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+EVENTS
+==========
+
+	PID: 0 HAS BEEN PREEMPTED
+
+21 time units 
+
+EVENTS
+==========
+
+	PID: 2 IS RUNNING IN THE CPU!!
+
+22 time units 
+
+EVENTS
+==========
+
+	PID: 2 HAS FINISHED IN CPU!!
+
+	IO REQUEST INITIATED!! 
+
+	PID: 2 IS RUNNING IN THE I/O!! 
+
+23 time units 
+
+EVENTS
+==========
+
+	PID: 0 IS RUNNING IN THE CPU!!
+
+	PID: 2 IS RUNNING IN THE I/O!! 
+
+24 time units 
+
+EVENTS
+==========
+
+	PID: 0 HAS FINISHED IN CPU!!
+
+	IO REQUEST INITIATED!! 
+
+	P ID: 2 I/O BURST 1 HAS COMPLETED!!! 
+
+	P ID: 2 HAS CHANGED STATES TO READY
+
+	P_ID: 2WILL BE SENT BACK TO READY QUEUE!
+
+25 time units 
+
+	READY QUEUE
+	___________
+	P ID: 2
+	state: READY
+
+	IO QUEUE
+	___________
+	P ID: 0
+	state: BLOCK
+
+EVENTS
+==========
+
+	PID: 2 IS RUNNING IN THE CPU!!
+
+	PID: 0 IS RUNNING IN THE I/O!! 
+
+26 time units 
+
+EVENTS
+==========
+
+	PID: 2 IS RUNNING IN THE CPU!!
+
+	PID: 0 IS RUNNING IN THE I/O!! 
+
+27 time units 
+
+EVENTS
+==========
+
+	PID: 2 IS RUNNING IN THE CPU!!
+
+	PID: 0 IS RUNNING IN THE I/O!! 
+
+28 time units 
+
+EVENTS
+==========
+
+	PID: 2 IS RUNNING IN THE CPU!!
+
+	PID: 0 IS RUNNING IN THE I/O!! 
+
+29 time units 
+
+EVENTS
+==========
+
+	PID: 2 IS RUNNING IN THE CPU!!
+
+	PID: 0 IS RUNNING IN THE I/O!! 
+
+30 time units 
+
+	READY QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+	IO QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+EVENTS
+==========
+
+	PID: 2 HAS BEEN PREEMPTED
+
+	PID: 0 IS RUNNING IN THE I/O!! 
+
+31 time units 
+
+EVENTS
+==========
+
+	PID: 2 IS RUNNING IN THE CPU!!
+
+	PID: 0 IS RUNNING IN THE I/O!! 
+
+32 time units 
+
+EVENTS
+==========
+
+	P ID: 0 I/O BURST 2 HAS COMPLETED!!! 
+
+	P ID: 0 HAS CHANGED STATES TO READY
+
+	P_ID: 0WILL BE SENT BACK TO READY QUEUE!
+
+	PID: 2 IS RUNNING IN THE CPU!!
+
+33 time units 
+
+EVENTS
+==========
+
+	PID: 2 IS RUNNING IN THE CPU!!
+
+34 time units 
+
+EVENTS
+==========
+
+	PID: 2 HAS FINISHED IN CPU!!
+
+	IO REQUEST INITIATED!! 
+
+	PID: 2 IS RUNNING IN THE I/O!! 
+
+35 time units 
+
+	READY QUEUE
+	___________
+	P ID: 0
+	state: READY
+
+	IO QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+EVENTS
+==========
+
+	PID: 0 IS RUNNING IN THE CPU!!
+
+	PID: 2 IS RUNNING IN THE I/O!! 
+
+36 time units 
+
+EVENTS
+==========
+
+	P ID: 2 I/O BURST 2 HAS COMPLETED!!! 
+
+	P ID: 2 HAS CHANGED STATES TO READY
+
+	P_ID: 2WILL BE SENT BACK TO READY QUEUE!
+
+	PID: 0 IS RUNNING IN THE CPU!!
+
+37 time units 
+
+EVENTS
+==========
+
+	PID: 0 IS RUNNING IN THE CPU!!
+
+38 time units 
+
+EVENTS
+==========
+
+	PID: 0 HAS COMPLETED!!
+
+39 time units 
+
+EVENTS
+==========
+
+	PID: 2 IS RUNNING IN THE CPU!!
+
+40 time units 
+
+	READY QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+	IO QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+EVENTS
+==========
+
+	PID: 2 IS RUNNING IN THE CPU!!
+
+41 time units 
+
+EVENTS
+==========
+
+	PID: 2 IS RUNNING IN THE CPU!!
+
+42 time units 
+
+EVENTS
+==========
+
+	PID: 2 IS RUNNING IN THE CPU!!
+
+43 time units 
+
+EVENTS
+==========
+
+	PID: 2 IS RUNNING IN THE CPU!!
+
+44 time units 
+
+EVENTS
+==========
+
+	PID: 2 HAS BEEN PREEMPTED
+
+45 time units 
+
+	READY QUEUE
+	___________
+	P ID: 2
+	state: READY
+
+	IO QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+EVENTS
+==========
+
+	PID: 2 HAS FINISHED IN CPU!!
+
+	IO REQUEST INITIATED!! 
+
+	PID: 2 IS RUNNING IN THE I/O!! 
+
+46 time units 
+
+EVENTS
+==========
+
+	PID: 2 IS RUNNING IN THE I/O!! 
+
+47 time units 
+
+EVENTS
+==========
+
+	PID: 2 IS RUNNING IN THE I/O!! 
+
+48 time units 
+
+EVENTS
+==========
+
+	PID: 2 IS RUNNING IN THE I/O!! 
+
+49 time units 
+
+EVENTS
+==========
+
+	PID: 2 IS RUNNING IN THE I/O!! 
+
+50 time units 
+
+	READY QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+	IO QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+EVENTS
+==========
+
+	P ID: 2 I/O BURST 3 HAS COMPLETED!!! 
+
+	P ID: 2 HAS CHANGED STATES TO READY
+
+	P_ID: 2WILL BE SENT BACK TO READY QUEUE!
+
+51 time units 
+
+EVENTS
+==========
+
+	PID: 2 IS RUNNING IN THE CPU!!
+
+52 time units 
+
+EVENTS
+==========
+
+	PID: 2 IS RUNNING IN THE CPU!!
+
+53 time units 
+
+EVENTS
+==========
+
+	PID: 2 IS RUNNING IN THE CPU!!
+
+54 time units 
+
+EVENTS
+==========
+
+	PID: 2 IS RUNNING IN THE CPU!!
+
+55 time units 
+
+	READY QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+	IO QUEUE
+	___________
+	QUEUE IS EMPTY!!!!!!
+
+EVENTS
+==========
+
+	PID: 2 IS RUNNING IN THE CPU!!
+
+56 time units 
+
+EVENTS
+==========
+
+	PID: 2 HAS BEEN PREEMPTED
+
+57 time units 
+
+EVENTS
+==========
+
+	PID: 2 HAS COMPLETED!!
+
